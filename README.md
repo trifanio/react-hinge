@@ -29,7 +29,7 @@
 - Run animations on the GPU layer leaving the main thread free
 - Simplest API, no custom tags or wrapping of the components
 - Supports all the Web Animations API features
-- `1kb` minified and gzipped
+- `1.2kb` minified and gzipped
 
 ## Installation
 
