@@ -1,16 +1,16 @@
 {
   "name": "react-hinge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny library to run GPU powered animations in React",
   "author": "Nikita Trifan (https://trifan.io)",
   "license": "MIT",
-  "homepage": "https://restyle.dev",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/souporserious/restyle.git"
+    "url": "https://github.com/trifanio/react-hinge.git"
   },
-  "bugs": "https://github.com/souporserious/restyle/issues",
-  "funding": "https://github.com/sponsors/souporserious",
+  "bugs": "https://github.com/trifanio/react-hinge/issues",
+  "funding": "https://github.com/sponsors/nikitatrifan",
   "keywords": [
     "react animations",
     "react",
