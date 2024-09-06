@@ -337,7 +337,9 @@ import { useDrag } from 'use-gesture/react'
 const hinge = useHinge();
 
 const bind = useDrag((down, movement: [mx, my]) => {
-  hinge.set('banner', { x: down ? mx : 0, y: down ? my : 0 })
+  hinge.set('banner', {
+    transform: `translateX(${down ? mx : 0}px) translateY(${down ? my : 0}px)`
+  })
 });
 
 <div {...bind()} ref={hinge.register('banner')} />
