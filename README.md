@@ -5,7 +5,8 @@
       <img src="/site/public/logo-dark@2.png" alt="react-hinge" width="272"/>
     </picture>
   </p>
-  <p>The fastest way to animate React components.</p>
+  <p>The fastest way to animate React components</p>
+  <a href="https://d7chwt.csb.app/" target="_blank">Compare to other libraries</a>
 </div>
 
 - [Features](#features)
@@ -371,7 +372,8 @@ useEffect(() => {
 
 ## Benchmarks
 
-React Hinge vs JS animation library vs CSS animations (Work in progress)
+[React Hinge vs Framer Motion vs React Spring vs GSAP vs CSS animations](https://d7chwt.csb.app)
+
 
 ## Acknowledgments
 
